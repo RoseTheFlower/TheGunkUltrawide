@@ -1,6 +1,6 @@
 ## The Gunk ultrawide and wider
 
-The tool corrects the field of view decrease affecting 21:9 and wider resolutions, and removes the side black bars from the cutscenes.
+The tool corrects the field of view decrease affecting 21:9 and wider resolutions, and removes the side black bars from the cutscenes. It also allows to control the field of view in real time.
 
 1. [Download](/../../releases) and unpack the archive.
 2. Launch the game first, followed by the tool.
